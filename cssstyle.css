@@ -1,0 +1,28 @@
+body {
+ background-image: url("C:\Users\ASUS\Documents\task 1\8.jpg");
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+marquee {
+	bgcolor: #ff8080;
+	behavior: alternate;
+}
+
+title {
+
+}
+.menu{
+	font size: 5;
+}
+img {
+	 width=309;
+	 height=309;
+}
